@@ -14,6 +14,6 @@ it, meaning there are no mines, the field also reveals all surrounding zeroes.
 Minesweeper relies on 3x3 tiles. In each of the cells within this 3x3 tile, a value is given based on
 the number of mines surrounding it.
 
-How to run: 
+How to run 
 -> Run the Main.java file directly from any IDE like VS code
 
