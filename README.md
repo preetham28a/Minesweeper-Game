@@ -14,13 +14,13 @@ Minesweeper relies on 3x3 tiles. In each of the cells within this 3x3 tile, a va
 the number of mines surrounding it.
 
 Below is an example:
-1. 0 0 0 0 0
-0 1 1 1 0
-0 1 * 1 0
-0 1 1 1 0
-0 0 0 0 0
-2. 0 0 1 1 1
-0 1 2 * 1
-0 1 * 2 1
-0 1 1 1 0
-0 0 0 0 0
+# 1. 0 0 0 0 0
+# 0 1 1 1 0
+# 0 1 * 1 0
+# 0 1 1 1 0
+# 0 0 0 0 0
+# 2. 0 0 1 1 1
+# 0 1 2 * 1
+# 0 1 * 2 1
+# 0 1 1 1 0
+# 0 0 0 0 0
