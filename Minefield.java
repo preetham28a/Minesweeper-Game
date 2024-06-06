@@ -1,5 +1,3 @@
-// Srinivas Preetham Addepalli, addep011; Suryansh Malik, malik180
-
 import java.util.Random;
 
 public class Minefield {
